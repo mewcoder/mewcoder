@@ -14,4 +14,4 @@
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
 
-[🔥 my-repo-list](https://mewcoder.github.io/my-repo-list/)
+<h3 ><a href="https://mewcoder.github.io/my-repo-list/" target="_blank">🔥 my-repo-list</a></h3>
