@@ -13,5 +13,3 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 ![Dino](https://raw.githubusercontent.com/praveenscience/praveenscience/master/dino.gif)
-
-<h3 >我的仓库导航👉  <a href="https://mewcoder.github.io/my-repo-list/" target="_blank">🔥 my-repo-list</a></h3>
